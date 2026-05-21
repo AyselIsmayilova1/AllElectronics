@@ -30,11 +30,11 @@ and the engineering project includes full source files, schematics, and the proj
 | 18 | Voltage Regulator Classification — Technical Report | [Academia.edu](https://www.academia.edu/167146391/Physics_Guide_COMPREHENS%C4%B0VE_TECHN%C4%B0CAL_REPORT_Voltage_Regulator_Classification_TECHNICAL_GUIDE_EDUCATIONAL) | Rəşadə Zülfüqarlı · Xumar Bağıyeva · Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 19 | LDR Control Circuits — Project Demo Video | [YouTube](https://youtu.be/BtcRChaP9yQ) | Xumar Bağıyeva · Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 20 | Simple LED Dimmer Circuit — Project Demo Video | [YouTube](https://youtu.be/0W4MY3ogkXw) | Xumar Bağıyeva · Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 21 | Automatic Dark Sensor Circuit — Project Demo Video | [YouTube](https://youtu.be/4wlEyLrvDhk) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 21 | Automatic Temperature Control & Cooling System — Project Demo Video | [YouTube](https://youtu.be/Ar0MsdR7yFQ) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 22 | Project Documentation: Automatic Temperature Control & Cooling Circuit Design in Proteus (LM358 & NTC) | [Academia.edu](https://www.academia.edu/167374323/Project_documentation_Automatic_Temperature_Control_and_Cooling_Circuit_Design_in_Proteus_LM358_and_NTC_) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 23 | Project Documentation: Automatic Dark Sensor Circuit — Controlling AC Lamp and Buzzer using LDR and Relay | [Academia.edu](https://www.academia.edu/167374406/Project_Documentation_Automatic_Dark_Sensor_Circuit_Controlling_AC_Lamp_and_Buzzer_using_LDR_and_Relay) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 24 | Automatic Temperature Control & Cooling System — Project Demo Video | [YouTube](https://youtu.be/Ar0MsdR7yFQ) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-
+| 24 | Automatic Dark Sensor Circuit — Project Demo Video | [YouTube](https://youtu.be/4wlEyLrvDhk) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 25 | Notebooks — Homework & Exercise Screenshot Collection | [link](https://www.slideshare.net/slideshow/notebooks_c-aysel-ismayilova-notebook/287638466) | Aysel İsmayılova | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 
 ---
 
@@ -1183,4 +1183,48 @@ an AC Lamp and Buzzer using an LDR and Relay. Hosted on YouTube.
 - **Field:** Electronics / Sensor Circuits / Relay Control
 - **Type:** Project Demonstration Video
 - **Language:** English
+- **Location:** Azerbaijan, Baku
+
+--------------------
+25. Topic
+
+https://www.slideshare.net/slideshow/notebooks_c-aysel-ismayilova-notebook/287638466
+
+verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
+https://www.instagram.com/physics_teacher_azerbaijan
+
+# Notebooks — Homework & Exercise Screenshot Collection
+
+A 40-slide collection of scanned/photographed notebook pages containing
+handwritten homework assignments and small exercises. Published on SlideShare
+as a visual record of practical coursework completed during the electronics
+and physics module.
+
+**Author:** Aysel İsmayılova
+**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
+
+---
+
+## What the notebook contains
+
+- Screenshot pages of handwritten homework assignments
+- Small exercises and practice problems from the electronics/physics module
+- 40 pages of coursework notes in notebook format
+- Visual documentation of in-class and take-home exercises
+
+---
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `25_notebooks_homework_screenshots.txt` | Description with link to SlideShare presentation |
+
+---
+
+## Subject
+
+- **Field:** Electronics / Physics
+- **Type:** Homework & Exercise Screenshots (Notebook Collection)
+- **Language:** Azerbaijani / English
 - **Location:** Azerbaijan, Baku
